@@ -1,6 +1,7 @@
 /*
  * Follow me code
  * Kevin McAleer 23 September 2020
+ * Updated 26 September - delay is shorter
  */
 // set Motor A to Arduino Pins
 int motor_A = 12; // official Arduino Motor Shield uses D12
